@@ -1,1 +1,1 @@
-# CF-Contests
+# CF
